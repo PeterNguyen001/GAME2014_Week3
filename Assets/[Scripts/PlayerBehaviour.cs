@@ -7,7 +7,7 @@ public class PlayerBehaviour : MonoBehaviour
 
     public float speed = 10;
     public Boundary boundary;
-    public float verticalPosition;
+    public float verticalPosition = -4;
 
     // Update is called once per frame
     void Update()
