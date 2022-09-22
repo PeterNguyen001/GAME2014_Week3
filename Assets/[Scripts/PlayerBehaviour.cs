@@ -26,6 +26,10 @@ public class PlayerBehaviour : MonoBehaviour
         {
             MobileInput();
         }
+        else
+        {
+            ConventionalInout();
+        }
 
         Move();
     }

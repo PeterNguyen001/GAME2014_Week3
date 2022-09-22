@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 3524171347
     locked: 0
+  - name: EnemyLayer
+    uniqueID: 4285899003
+    locked: 0
   - name: PlayerLayer
     uniqueID: 1348991013
     locked: 0
